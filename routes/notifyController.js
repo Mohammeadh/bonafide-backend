@@ -39,7 +39,7 @@ const notifyController=async(req,res)=>{
                 <h3>Name:${req.body.data.name}</h3>
                 <h3>Email:${req.body.data.email}</h3>
                 <h3>Reason:${req.body.data.reason}</h3>
-                <a href="http://localhost:3001">click</a>
+                <a href="https://psna-bonafide.netlify.app/">click</a>
               </div>
               
             </body>
